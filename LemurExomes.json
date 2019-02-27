@@ -1,0 +1,121 @@
+{
+	"genome_paths": {
+		"Pcoq_1_0_genomic": "Seq_Data/References/Pcoq_1_0_genomic.fna",
+		"Eflav_k33QCA_genomic": "Seq_Data/References/Eflav_k33QCA_genomic.fna"
+},
+
+	"Eulemur_males": [
+		"EFlavM",
+		"ERufM",
+		"ERubM"
+	],
+
+	"Eulemur_females": [
+		"EFlavF",
+		"ERufF",
+		"ERubF",
+		"EMongF"
+	],
+
+	"Prop_males": [
+		"PCoqM"
+	],
+
+	"Prop_females": [
+		"PCoqF"
+	],
+
+"lemur_fastq_prefixes": [
+		"EFlavF_R1",
+		"EFlavF_R2",
+		"EFlavM_R1",
+		"EFlavM_R2",
+		"ERufF_R1",
+		"ERufF_R2",
+		"ERufM_R1",
+		"ERufM_R2",
+		"ERubF_R1",
+		"ERubF_R2",
+		"ERubM_R1",
+		"ERubM_R2",
+		"EMongF_R1",
+		"EMongF_R2",
+		"PCoqF_R1",
+		"PCoqF_R2",
+		"PCoqM_R1",
+		"PCoqM_R2"
+],
+
+	"EFlavF": {
+		"ID": "81",
+		"SM": "EFlavF",
+		"LB": "IDT_WES",
+		"PU": "HJYMLBBXX",
+		"PL": "Illumina"
+	},
+
+	"EFlavM": {
+		"ID": "81",
+		"SM": "EFlavM",
+		"LB": "IDT_WES",
+		"PU": "HJYMLBBXX",
+		"PL": "Illumina"
+	},
+
+	"ERufF": {
+		"ID": "81",
+		"SM": "ERufF",
+		"LB": "IDT_WES",
+		"PU": "HJYMLBBXX",
+		"PL": "Illumina"
+	},
+
+	"ERufM": {
+		"ID": "81",
+		"SM": "ERufM",
+		"LB": "IDT_WES",
+		"PU": "HJYMLBBXX",
+		"PL": "Illumina"
+	},
+
+	"ERubF": {
+		"ID": "81",
+		"SM": "ERubF",
+		"LB": "IDT_WES",
+		"PU": "HJYMLBBXX",
+		"PL": "Illumina"
+	},
+
+	"ERubM": {
+		"ID": "81",
+		"SM": "ERubM",
+		"LB": "IDT_WES",
+		"PU": "HJYMLBBXX",
+		"PL": "Illumina"
+	},
+
+	"EMongF": {
+		"ID": "81",
+		"SM": "EMongF",
+		"LB": "IDT_WES",
+		"PU": "HJYMLBBXX",
+		"PL": "Illumina"
+	},
+
+	"PCoqF": {
+		"ID": "81",
+		"SM": "PCoqF",
+		"LB": "IDT_WES",
+		"PU": "HJYMLBBXX",
+		"PL": "Illumina"
+	},
+
+	"PCoqM": {
+		"ID": "81",
+		"SM": "PCoqM",
+		"LB": "IDT_WES",
+		"PU": "HJYMLBBXX",
+		"PL": "Illumina"
+}
+
+}
